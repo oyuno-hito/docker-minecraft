@@ -1,1 +1,1 @@
-FROM nginx
+FROM itzg/minecraft-server
